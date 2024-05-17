@@ -23,9 +23,6 @@ timeId = setInterval(() => {
     i++
 }, 2000);
 
-// fileUpload.emit('complete')
-
-
 
 // CUSTOM ERROR
 
